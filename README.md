@@ -1,1 +1,2 @@
-An android live cd that you can install on pc
+# LiveCDroid Cupcake
+The alpha version of LiveCDroid
